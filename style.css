@@ -1,0 +1,33 @@
+body
+{
+    margin: 50px;
+    padding: 50px;
+}
+.calculator
+{
+    border: 2px solid gray;
+    background: black;
+    margin:0 auto;
+    padding:20px;
+    width: 400px;
+
+}
+.form
+{
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+.button-area
+{
+    margin-left:;
+}
+.width
+{
+   
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.form-control
+{
+    height: 50px;
+}
